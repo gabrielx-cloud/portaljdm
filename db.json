@@ -1,0 +1,46 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Administrador",
+      "sobrenome": "Jdmportal",
+      "cpf": "000.000.000-00",
+      "email": "admin@portaljdm.com",
+      "senha": "Admin@6769",
+      "rua": "Rua Principal",
+      "cep": "00000-000",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "telefone": "(11) 99999-0000",
+      "admin": true
+    },
+    {
+      "nome": "Derick",
+      "sobrenome": "Hatiro",
+      "cpf": "491.248.381-2",
+      "email": "Derick.hatiro@gmail.com",
+      "senha": "japa123",
+      "rua": "rua santa efigênia",
+      "cep": "08740-400",
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "telefone": "111111111111",
+      "admin": false,
+      "id": 2
+    },
+    {
+      "nome": "Pablo",
+      "sobrenome": "Chagas",
+      "cpf": "665.656.56",
+      "email": "pabloaugustotei.chagas@gmail.com",
+      "senha": "pablo2",
+      "rua": "1234567890",
+      "cep": "00005-550",
+      "cidade": "Mogi das Cruzes",
+      "estado": "SP",
+      "telefone": "11 3636-5648",
+      "admin": false,
+      "id": 3
+    }
+  ]
+}
